@@ -1,6 +1,6 @@
 name = "Rohit"
 age = 21
-course = "B.Tech Data Science"
+course = "Python Programming "
 college = "Tontadarya College of Engineering"
 email = "rohithalakeri17@gmail.com"
 
