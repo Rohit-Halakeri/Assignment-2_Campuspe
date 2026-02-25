@@ -113,5 +113,6 @@ def analyse_text():
             return -1
         else:
             print("Invalid Input Try again")
+    analyse_text()
 
 
